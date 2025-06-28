@@ -1,10 +1,14 @@
 # Hi 👋
 
 My name is Florent Thossa.  
-🎯 I’m a Data Analyst specialized in Power BI, SQL and Data Visualization.  
+
+🎯 I’m a Data Analyst specialized in Power BI, SQL and Data Visualization.
+
 🌍 Based in Togo – open to remote opportunities worldwide.  
+
 🎓 I have a Bachelor's degree in Software Engineering, currently pursuing a Master's in Data Analytics and Machine Learning at HEC Maroc.  
  and over 4 years of experience as a Data Analyst in the telecommunications industry.  
+ 
 📊 Passionate about turning raw data into powerful business insights. 
 
 🤝 I'm open to collaborating on Power BI, data analytics, and business intelligence projects.  
